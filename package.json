@@ -1,6 +1,6 @@
 {
   "name": "tailwind-installer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A streamlined npm package to quickly install and configure Tailwind CSS in your React projects in a go. This package automates the standard Tailwind setup process, allowing you to focus on development rather than configuration.",
   "bin":{
      "tailwind-installer": "./index.js"
