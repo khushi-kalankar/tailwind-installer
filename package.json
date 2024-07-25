@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-installer",
+  "version": "1.0.0",
+  "description": "npm package for setting up tailwind cssin a react vite project ",
+  "main": "index.js",
+  "type": "module",
+ 
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushi-kalankar/tailwind-installer.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Khushi Kalankar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/khushi-kalankar/tailwind-installer/issues"
+  },
+  "homepage": "https://github.com/khushi-kalankar/tailwind-installer#readme"
+}
